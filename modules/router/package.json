@@ -29,10 +29,10 @@
     "@prisma/client": "2.22.0",
     "@sinclair/typebox": "0.12.7",
     "ajv": "6.12.6",
-    "axios": "0.21.1",
+    "axios": "0.28.0",
     "core-js": "3.9.1",
     "evt": "1.9.12",
-    "fastify": "3.13.0",
+    "fastify": "3.29.4",
     "fastify-metrics": "7.0.0",
     "fastify-oas": "3.0.8",
     "p-queue": "6.6.2",
@@ -40,7 +40,7 @@
     "pino": "6.11.1",
     "prom-client": "13.1.0",
     "regenerator-runtime": "0.13.7",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.1.5",
     "uuid": "8.3.2"
   },
   "devDependencies": {
